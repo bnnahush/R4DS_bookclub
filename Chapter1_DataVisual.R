@@ -1,5 +1,5 @@
 # R4DS Book club https://www.youtube.com/watch?v=0NdiQuuM0vw&list=PL3x6DOfs2NGjk1sPsrn2CazGiel0yZrhc&index=2
-#Chapter 2 & 3
+#Chapter 2
 
 # Data Visualization with ggplot2
 
